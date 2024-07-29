@@ -27,4 +27,39 @@ This project outlines the development of a user-friendly platform for Spirit 202
 * Designed a user-centric interface for seamless registration and ambassador management.
 * Incorporated a review feature to gather valuable user feedback without requiring authentication.
 
+# Development steps
+
+***To get the website up and running, please follow these steps: ( in VS code )***
+
+1. **Clone the repository:**
+   - Begin by cloning the repository to your local machine.
+   - You will find two main folders: `frontend` and `backend`.
+
+2. **Set up the backend:**
+   - Open a terminal and execute the following commands :
+     ```
+     cd backend
+     npm install
+     npm start
+     ```
+   - Confirm that the backend is running.
+  
+3. **Set up the frontend:**
+   - Open a new terminal and run these commands:
+     ```
+     cd frontend
+     npm install
+     ```
+   - If you encounter any errors, try:
+     ```
+     npm install --legacy-peer-deps
+     ```
+   - Then start the frontend:
+     ```
+     npm run start
+     ```
+   - Verify that the frontend is running.
+
+Now, the website should be operational on your local computer, and you can proceed with testing.
+
 
