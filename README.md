@@ -1,8 +1,8 @@
 
 
-# Spirit 2024 Campus Ambassador Platform ***(The website is live)***
+# Spirit 2024 Campus Ambassador Platform 
 
-### Overview
+### Overview ***(The website is live)***
 This project outlines the development of a user-friendly platform for Spirit 2024, focusing on streamlining the registration and management of campus ambassadors. The platform significantly enhanced campus branding and outreach efforts.
 
 ### Key Features
